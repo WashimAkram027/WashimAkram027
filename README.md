@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/washimakram-081b8918a/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/washim-akram-081b8918a/">LinkedIn</a> ·
   <a href="mailto:akramwashim027@gmail.com">Email</a>
 </p>
 
@@ -66,6 +66,6 @@ I work fluently with **Cursor** and **Claude Code**, and most of what I build li
 
 ### 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/washimakram-081b8918a/) · akramwashim027@gmail.com — open to new-grad / early-career Software Engineer roles (US, remote or relocation).
+[LinkedIn](https://www.linkedin.com/in/washim-akram-081b8918a/) · akramwashim027@gmail.com — open to new-grad / early-career Software Engineer roles (US, remote or relocation).
 
 <p align="center"><sub>I build with LLMs and agents in production — but the fundamentals (clean code, tests, observability) come first.</sub></p>
